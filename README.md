@@ -1,6 +1,6 @@
 # FIA
 Frequência de Inteligência Ativa
-Resumo do Projeto FIA – (Frequência de Inteligência Ativa)
+Resumo do Projeto FIA 
 
 1. Origem da ideia
 A semente nasceu quando conversamos sobre o conceito de Felicidade Interna Bruta (FIB), criado no Butão como alternativa ao PIB, colocando a felicidade coletiva como medida de progresso. A partir disso, refletimos:
